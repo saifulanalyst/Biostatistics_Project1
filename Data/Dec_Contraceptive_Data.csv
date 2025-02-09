@@ -1,0 +1,171 @@
+v1_IDNO,v6_FaciName,v7_InsertionDate,v11_ClientName,v12_ClientAge,Age_CompletedClient,v19_ClientsDist,v20_ClientsUpaz,v22_UsingFPmethod,v23_IfYesMethod,v24_ReasonsForLNGmethod,Contra_type,v51_Weight,v52_Temperature,v53_Pulse,v54_Bloodpressure,v55_Anaemia,v56_BreastExam,Mean_BP
+MF046,MFSTC,12-Apr-22,Fariha,27,27,Dhaka District,Mirpur Model Thana,Yes,Condom,3,0,62,98,72,120/80,4,1,93
+MC016,MCHTI,17-Apr-22,Irin,19,19,Dhaka District, ,Yes,Condom,1,0,64,98,78,120/80,4,1,93
+MC015,MCHTI,17-Apr-22,Doli Rani,27,27,Dhaka District, ,Yes,Injectable,1,1,151,96,76,120/80,4,1,93
+OG023,OGSB Hospital,22-Jun-22,Shamima,32,32,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,2,1,61,97,78,110/80,1,1,90
+MF032,MFSTC,9-Mar-22,Moni,36,36,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,52,98,75,110/80,4,1,90
+DU005,Dhamrai UHC,27-Apr-22,Priyanka,22,22,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,1,0,50,98,75,120/80,4,1,93
+OG015,OGSB Hospital,12-Jun-22,Dipa,35,35,Dhaka District,Mirpur Model Thana,Yes,Condom,3,0,48,98,74,110/70,4,1,83
+DU001,Dhamrai UHC,16-Mar-22,Shujila Rani,20,20,Dhaka District,Dhamrai Upazila,Yes,Oral Pill,1,1,43,98,92,110/70,4,1,83
+OG001,OGSB Hospital,2-Apr-22,Nigar,35,35,Dhaka District,Agargaon,Yes,Condom,3,0,52,98,74,120/80,4,1,93
+MC030,MCHTI,11-May-22,Shanta Islam,22,22,Narayanganj District,Rupganj Upazila,Yes,Copper IUD,2,0,60,98,72,120/80,4,1,93
+DU002,Dhamrai UHC,16-Mar-22,Shujoli,20,20,Dhaka District,Dhamrai Upazila,Yes,Oral Pill,1,1,42,98,92,120/80,4,1,93
+DU013,Dhamrai UHC,7-Jun-22,Rebeca,46,46,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,55,98,72,120/80,4,1,93
+MF013,MFSTC,20-Feb-22,Rumi,31,31,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,56,98,75,120/80,4,1,93
+MF051,MFSTC,18-May-22,Moni,20,20,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,50,98,80,120/80,1,1,93
+MC046,MCHTI,11-Oct-22,Sumaiya,30,30,Dhaka District,Lalbag Thana,Yes,Oral Pill,3,1,58,98,77,110/70,4,1,83
+DU029,Dhamrai UHC,21-Jun-22,Sharifa,38,38,Dhaka District,Dhamrai Upazila,Yes,Implant,3,1,55,98,72,120/80,4,1,93
+MC022,MCHTI,21-Apr-22,Shahnaz Khan,45,45,Dhaka District,Jatrabari Thana,Yes,Implant,1,1,70,98,78,100/80,4,1,86
+MC024,MCHTI,23-Apr-22,Tayeba,25,25,Dhaka District,Paltan Thana,Yes,Implant,2,1,55,98,72,120/80,4,1,93
+MC038,MCHTI,1-Jun-22,Rokeya,28,28,Dhaka District,Tejgaon Thana,Yes,Implant,2,1,52,98,80,120/80,4,1,93
+DU010,Dhamrai UHC,7-Jun-22,Chaina,30,30,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,55,98,72,120/80,4,1,93
+DU011,Dhamrai UHC,7-Jun-22,Nargis,35,35,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,50,98,72,120/80,4,1,93
+DU014,Dhamrai UHC,7-Jun-22,Tahmina,42,42,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,55,98,72,120/80,4,1,93
+DU015,Dhamrai UHC,7-Jun-22,Helena,30,30,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,50,98,72,120/80,4,1,93
+DU018,Dhamrai UHC,8-Jun-22,Sujata,42,42,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,50,98,72,120/80,4,1,93
+DU019,Dhamrai UHC,12-Jun-22,Asma,42,42,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,55,98,72,120/70,4,1,86
+DU020,Dhamrai UHC,12-Jun-22,Joynab,35,35,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,50,98,72,120/72,4,1,88
+DU021,Dhamrai UHC,12-Jun-22,Selina,40,40,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,50,98,72,120/80,4,1,93
+DU023,Dhamrai UHC,16-Jun-22,Johra,27,27,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,55,98,72,120/80,4,1,93
+MC029,MCHTI,10-May-22,Rubina,24,24,Dhaka District,Lalbag Thana,Yes,Copper IUD,1,0,55,99,80,120/80,4,1,93
+MC045,MCHTI,27-Sep-22,Rubaiya,25,25,Dhaka District,Kamrangirchar Thana,Yes,Copper IUD,3,0,59,98,78,110/70,4,1,83
+MF027,MFSTC,6-Mar-22,Ayesha,27,27,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,67,98,75,110/70,4,1,83
+MF034,MFSTC,10-Mar-22,Rabeya,31,31,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,3,0,55,98,72,120/80,4,1,93
+NM006,Narshingdi MCWC,23-Mar-22,Taslima,34,34,Narsingdi District,Narsingdi Sadar Upazila,Yes,Copper IUD,3,0,63,98,70,120/80,1,1,93
+DU009,Dhamrai UHC,7-Jun-22,Khorseda,32,32,Dhaka District,Dhamrai Upazila,Yes,Injectable,3,1,50,98,72,120/80,4,1,93
+MF002,MFSTC,25-Jan-22,Shabana,30,30,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,60,98,75,120/80,4,1,93
+MF019,MFSTC,23-Feb-22,Humaira,35,35,Dhaka District,Dhanmondi Thana,Yes,Injectable,3,1,72,98,72,120/80,4,1,93
+MF026,MFSTC,3-Mar-22,Nahar,27,27,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,49,98,72,100/70,4,1,80
+MF031,MFSTC,9-Mar-22,Nasiron,30,30,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,60,98,65,110/80,1,1,90
+MF048,MFSTC,16-Apr-22,Sumona,19,19,Dhaka District,Mirpur Model Thana,Yes,Injectable,3,1,55,98,74,90/60,4,1,70
+MF058,MFSTC,12-Jun-22,Lipa,22,22,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,35,98,72,110/70,4,1,83
+MF059,MFSTC,14-Jun-22,Lima,24,24,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,52,98,75,110/70,4,1,83
+MF065,MFSTC,27-Jun-22,Tania,27,27,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,60,99,80,120/80,4,1,93
+MF068,MFSTC,27-Jun-22,Amena,30,30,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,55,99,80,120/80,4,1,93
+OG006,OGSB Hospital,10-May-22,Sonia,20,20,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,60,97,78,110/70,2,1,83
+OG011,OGSB Hospital,6-Jun-22,Rahima,34,34,Dhaka District,Savar,Yes,Injectable,2,1,64,97,78,110/70,1,1,83
+OG016,OGSB Hospital,12-Jun-22,Farjana,28,28,Dhaka District,Savar,Yes,Injectable,1,1,61,98,76,110/80,4,1,90
+OG029,OGSB Hospital,19-Jul-22,Rabeya,30,30,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,68,97,72,110/70,1,1,83
+DU017,Dhamrai UHC,8-Jun-22,Monika,24,24,Dhaka District,Dhamrai Upazila,Yes,Condom,3,0,50,98,72,120/80,4,1,93
+DU022,Dhamrai UHC,14-Jun-22,Tania,23,23,Dhaka District,Dhamrai Upazila,Yes,Condom,3,0,50,98,72,120/80,4,1,93
+DU025,Dhamrai UHC,16-Jun-22,Afroza Akter,22,22,Dhaka District,Dhamrai Upazila,Yes,Condom,3,0,50,98,72,120/80,4,1,93
+DU030,Dhamrai UHC,3-Jul-22,Hajera,35,35,Dhaka District,Dhamrai Upazila,Yes,Condom,1,0,50,98,72,120/80,4,1,93
+MC006,MCHTI,2-Apr-22,Suraiya,29,29,Dhaka District,Lalbagh Thana,Yes,Condom,1,0,69,98,72,110/70,4,1,83
+MC019,MCHTI,19-Apr-22,Laboni,20,20,Dhaka District,Kamrangirchar Thana,Yes,Condom,1,0,71,99,76,120/80,4,1,93
+MF044,MFSTC,7-Apr-22,Priyari,30,30,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,55,98,75,100/70,4,1,80
+MF045,MFSTC,10-Apr-22,Farzana,27,27,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,52,98,72,110/80,4,1,90
+MF063,MFSTC,26-Jun-22,Sultana,25,25,Dhaka District,Savar,Yes,Condom,1,0,65,99,80,120/80,4,1,93
+OG004,OGSB Hospital,27-Apr-22,Kakoly,32,32,Dhaka District,Mirpur Model Thana,Yes,Condom,7,0,90,97,84,110/70,4,1,83
+OG010,OGSB Hospital,1-Jun-22,Afia,35,35,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,58,98,76,100/80,4,1,86
+OG013,OGSB Hospital,8-Jun-22,Tania,27,27,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,51,98,76,100/70,4,1,80
+OG017,OGSB Hospital,14-Jun-22,Mala,43,43,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,56,98,74,120/80,4,1,93
+OG030,OGSB Hospital,28-Jul-22,Ruma,34,34,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,58,98,76,110/80,4,1,90
+DU012,Dhamrai UHC,7-Jun-22,Tanvia,35,35,Dhaka District,Dhamrai Upazila,Yes,Oral Pill,1,1,47,98,72,120/80,4,1,93
+LM012,Lakshmipur MCWC,28-Apr-22,Kulsum,35,35,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,52,98,73,100/80,1,1,86
+LM013,Lakshmipur MCWC,5-May-22,Protima,41,41,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,58,98,76,110/80,1,1,90
+LM016,Lakshmipur MCWC,22-May-22,Farida,35,35,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,45,98,72,100/70,1,1,80
+LM025,Lakshmipur MCWC,5-Jun-22,Selina,35,35,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,52,98,76,120/80,1,1,93
+MC007,MCHTI,2-Apr-22,Rabeya,40,40,Dhaka District,Kamrangirchar Thana,Yes,Oral Pill,1,1,88,98,78,100/80,4,1,86
+MC020,MCHTI,20-Apr-22,Maksuda,28,28,Dhaka District,Fatulla,Yes,Oral Pill,1,1,71,98,74,110/70,2,1,83
+MC036,MCHTI,29-May-22,Munni,38,38,Dhaka District,Lalbag Thana,Yes,Oral Pill,3,1,60,99,80,120/80,4,1,93
+MC037,MCHTI,30-May-22,Sharmin Sultana,28,28,Narayanganj District,Fatulla Thana,Yes,Oral Pill,1,1,56,99,80,120/80,4,1,93
+MF015,MFSTC,22-Feb-22,Rina,20,20,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,45,98,72,110/80,4,1,90
+MF036,MFSTC,13-Mar-22,Jui,38,38,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,60,98,74,110/70,4,1,83
+MF040,MFSTC,27-Mar-22,Mashura,41,41,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,3,1,70,98,72,110/70,4,1,83
+MM012,Mymensingh MCWC,18-May-22,Moni Mondal,25,25,Mymensingh District,Mymensingh Sadar Upazila,Yes,Oral Pill,3,1,58,98,76,110/70,4,1,83
+MM015,Mymensingh MCWC,5-Jun-22,Taslima,21,21,Mymensingh District,Gouripur Upazila,Yes,Oral Pill,3,1,65,98,76,120/70,4,1,86
+MM029,Mymensingh MCWC,22-Sep-22,Bristy,18,18,Mymensingh District,Mymensingh Sadar Upazila,Yes,Oral Pill,1,1,65,98,74,110/70,4,1,83
+NM009,Narshingdi MCWC,31-Mar-22,Roksana,32,32,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,52,98,80,120/80,2,1,93
+NM024,Narshingdi MCWC,29-May-22,Sakina,25,25,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,50,98,80,110/80,4,1,90
+OG007,OGSB Hospital,16-May-22,Shujina,30,30,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,53,98,78,110/80,1,1,90
+OG008,OGSB Hospital,17-May-22,Rina Bala,41,41,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,65,98,78,110/70,4,1,83
+OG009,OGSB Hospital,22-May-22,Reba,35,35,Dhaka District,Uttar Badda,Yes,Oral Pill,1,1,56,97,78,120/80,1,1,93
+OG012,OGSB Hospital,6-Jun-22,Dolon,28,28,Dhaka District,Tolarbag,Yes,Oral Pill,1,1,51,98,75,100/70,4,1,80
+OG018,OGSB Hospital,14-Jun-22,Tamanna,26,26,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,51,97,78,110/60,1,1,76
+OG026,OGSB Hospital,29-Jun-22,Mohona,27,27,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,76,98,88,120/80,1,1,93
+DU039,Dhamrai UHC,13-Apr-23,Rawshan Ara,33,,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,51,98,72,120/80,4,1,93
+DU042,Dhamrai UHC,10-May-23,Mim,23,,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,3,0,51,98,72,110/70,4,1,83
+DU043,Dhamrai UHC,21-May-23,Nurjahan,35,,Dhaka District,Dhamrai Upazila,Yes,Copper IUD,1,0,58,98,72,110/70,4,1,83
+LM077,Lakshmipur MCWC,26-Jul-23,Koli Saha,42,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Copper IUD,1,0,58,98,80,120/70,1,1,86
+MF099,MFSTC,5-Aug-23,Asma,43,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,70,98,74,120/80,,,93
+NM074,Narshingdi MCWC,8-Apr-23,Joya Rani Saha,30,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Copper IUD,1,0,45,98,72,110/70,4,1,83
+OG034,OGSB Hospital,1-Feb-23,Eva,27,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,60,98,75,110/70,4,1,83
+OG037,OGSB Hospital,4-Feb-23,Tanni,32,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,60,98,78,110/80,4,1,90
+OG038,OGSB Hospital,7-Feb-23,Rehena,35,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,63,98,72,120/70,4,1,86
+OG040,OGSB Hospital,12-Feb-23,Mabia,30,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,3,0,55,98,74,110/80,4,1,90
+OG059,OGSB Hospital,23-Mar-23,Sumaiya,27,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,3,0,46,98,74,110/80,4,1,90
+OG073,OGSB Hospital,9-May-23,Husne Ara,39,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,70,98,74,120/70,4,1,86
+OG075,OGSB Hospital,10-May-23,Bushra,32,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,75,98,74,120/80,4,1,93
+OG084,OGSB Hospital,27-May-23,Hajera Khatun,45,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,75,98,76,110/80,4,1,90
+OG094,OGSB Hospital,2-Aug-23,Dr. Kaniz Fatema,37,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,3,0,65,98,72,110/70,4,1,83
+OG103,OGSB Hospital,17-Oct-23,Mrs Sheshir Susmita,34,,Dhaka District,Mirpur Model Thana,Yes,Copper IUD,1,0,70,98,72,100/70,2,1,80
+LM059,Lakshmipur MCWC,16-Feb-23,Shahnaz,35,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Injectable,1,1,55,98,72,120/80,4,1,93
+MC061,MCHTI,22-May-23,Shahida Begum,24,,Dhaka District,Kamrangirchar Thana,Yes,Injectable,1,1,86,98,72,110/70,4,1,83
+MC064,MCHTI,8-Jul-23,Shanta,27,,Dhaka District,Lalbag Thana,Yes,Injectable,3,1,65,98,72,120/80,1,1,93
+MC069,MCHTI,2-Oct-23,Surma,21,,Dhaka District, ,Yes,Injectable,3,1,49,98,72,120/80,4,1,93
+NM069,Narshingdi MCWC,29-Mar-23,Parvin,22,,Narsingdi District,Shibpur Upazila,Yes,Injectable,1,1,56,98,74,120/80,4,1,93
+NM084,Narshingdi MCWC,31-May-23,Tahmina,22,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Injectable,1,1,55,98,74,120/80,4,1,93
+NM085,Narshingdi MCWC,13-Jun-23,Tania,20,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Injectable,1,1,70,98,74,120/80,4,1,93
+NM090,Narshingdi MCWC,18-Jun-23,Swapna,30,,Narsingdi District,Raipura Upazila,Yes,Injectable,1,1,65,98,72,120/80,4,1,93
+NM101,Narshingdi MCWC,28-Aug-23,Dildar,19,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Injectable,1,1,72,98,72,110/70,1,1,83
+OG052,OGSB Hospital,12-Mar-23,Kulsum Akter,23,,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,51,97,82,120/80,1,1,93
+OG056,OGSB Hospital,18-Mar-23,Ayesha,34,,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,57,97,78,100/60,2,1,73
+OG062,OGSB Hospital,10-Apr-23,Rupa,22,,Dhaka District,Mirpur Model Thana,Yes,Injectable,1,1,67,98,76,110/70,4,1,83
+DU038,Dhamrai UHC,9-Apr-23,Aklima,33,,Dhaka District,Dhamrai Upazila,Yes,Condom,3,0,55,98,72,120/80,4,1,93
+LM051,Lakshmipur MCWC,8-May-23,Rubina Begum,20,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Condom,1,0,40,98,72,110/80,4,1,90
+LM060,Lakshmipur MCWC,19-Feb-23,Fatematul Jannat,25,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Condom,1,0,60,98,74,120/80,4,1,93
+MC053,MCHTI,28-Feb-23,Shimu,30,,Dhaka District,Kamrangirchar Thana,Yes,Condom,1,0,65,98,76,120/80,4,1,93
+MC060,MCHTI,6-Apr-23,Nasima,30,,Dhaka District,Nababpur,Yes,Condom,1,0,72,98,78,110/70,4,1,83
+NM057,Narshingdi MCWC,2-Mar-23,Tania,19,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Condom,1,0,65,98,72,120/80,4,1,93
+NM087,Narshingdi MCWC,15-Jun-23,Aklima,29,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Condom,1,0,52,98,70,120/70,4,1,86
+NM089,Narshingdi MCWC,18-Jun-23,Smrity Rani,20,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Condom,1,0,64,98,74,120/80,1,1,93
+NM095,Narshingdi MCWC,2-Aug-23,Ishita,18,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Condom,1,0,40,98,72,120/80,4,1,93
+OG043,OGSB Hospital,21-Feb-23,Fahima,34,,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,58,97,72,110/70,1,1,83
+OG067,OGSB Hospital,27-Apr-23,Bilkis,32,,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,66,98,78,110/70,1,1,83
+OG083,OGSB Hospital,24-May-23,Jafrin,31,,Dhaka District,Mirpur Model Thana,Yes,Condom,2,0,64,98,72,90/60,2,1,70
+OG101,OGSB Hospital,12-Jul-23,Mrs Taslima Akter,27,,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,56,97,82,100/70,2,1,80
+MC047,MCHTI,19-Dec-22,Sumaiya,16,,Dhaka District,Kamrangirchar Thana,Yes,Condom,1,0,55,98,78,110/70,4,1,83
+MF088,MFSTC,2-Aug-23,Tanjina Akter,28,,Dhaka District,Mirpur Model Thana,Yes,Condom,1,0,70,98,72,110/70,1,1,83
+DU033,Dhamrai UHC,12-Feb-23,Mala Biswas,45,,Dhaka District,Dhamrai Upazila,Yes,Oral Pill,3,1,50,98,72,110/80,4,1,90
+LM048,Lakshmipur MCWC,8-Apr-23,Rina Akter,27,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,2,1,50,98,80,120/80,1,1,93
+LM052,Lakshmipur MCWC,1-Jun-23,Beauty Akter,35,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,58,98,72,100/60,1,1,73
+LM056,Lakshmipur MCWC,4-Apr-23,Rina Begum,24,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,42,98,75,100/80,1,1,86
+LM063,Lakshmipur MCWC,6-Mar-23,Hosneara,26,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,55,98,74,120/80,4,1,93
+MC049,MCHTI,9-Feb-23,Mily Begum,36,,Dhaka District,Kamrangirchar Thana,Yes,Oral Pill,3,1,40,98,72,130/90,1,1,103
+MF071,MFSTC,4-Mar-23,Rawshan Ara,49,,Dhaka District,Tejgaon Thana,Yes,Oral Pill,3,1,62,98,75,120/70,1,1,86
+MF074,MFSTC,6-May-23,Salma,34,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,3,1,80,98,76,130/90,4,1,103
+MF075,MFSTC,25-Jul-23,Razia,28,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,57,98,74,120/80,4,1,93
+MF079,MFSTC,30-Jul-23,Lovely,35,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,70,98,72,120/70,4,1,86
+MF087,MFSTC,2-Aug-23,Laizu,26,,Dhaka District,Savar Upazila,Yes,Oral Pill,1,1,65,98,75,120/80,1,1,93
+MF090,MFSTC,2-Aug-23,Tania,28,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,40,98,72,120/80,1,1,93
+MM033,Mymensingh MCWC,30-Mar-23,Rawshan Ara,30,,Mymensingh District,Mymensingh Sadar Upazila,Yes,Oral Pill,1,1,55,98,74,120/70,4,1,86
+MM034,Mymensingh MCWC,9-Apr-23,Shampa Rani,26,,Mymensingh District,Mymensingh Sadar Upazila,Yes,Oral Pill,1,1,58,98,75,110/80,4,1,90
+MM035,Mymensingh MCWC,11-Apr-23,Tania,26,,Mymensingh District,Gouripur Upazila,Yes,Oral Pill,1,1,57,98,75,120/70,4,1,86
+MM037,Mymensingh MCWC,8-May-23,Sabina,22,,Mymensingh District, ,Yes,Oral Pill,1,1,53,98,80,120/80,4,1,93
+MM040,Mymensingh MCWC,2-Jul-23,Taslima,22,,Mymensingh District,Mymensingh Sadar Upazila,Yes,Oral Pill,1,1,55,98,80,120/80,4,1,93
+NM041,Narshingdi MCWC,21-Jan-23,Shefali,25,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,,1,50,98,74,110/80,4,1,90
+NM043,Narshingdi MCWC,26-Jan-23,Shahida,32,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,60,98,72,110/70,4,1,83
+NM048,Narshingdi MCWC,6-Feb-23,Mukta,25,,Narsingdi District,Raipura Upazila,Yes,Oral Pill,1,1,55,98,75,120/80,1,1,93
+NM050,Narshingdi MCWC,11-Feb-23,Habiba,22,,Narsingdi District, ,Yes,Oral Pill,1,1,54,98,75,110/80,4,1,90
+NM051,Narshingdi MCWC,14-Feb-23,Tania,27,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,50,98,75,110/70,4,1,83
+NM061,Narshingdi MCWC,5-Mar-23,Mahmuda,24,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,60,98,70,120/80,4,1,93
+NM063,Narshingdi MCWC,14-Mar-23,Nasima,32,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,57,98,72,110/70,4,1,83
+NM075,Narshingdi MCWC,17-Apr-23,Fatema,31,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,54,98,72,110/70,4,1,83
+NM079,Narshingdi MCWC,17-May-23,Kulsum,22,,Narsingdi District,Raipura Upazila,Yes,Oral Pill,1,1,65,98,72,120/80,4,1,93
+NM083,Narshingdi MCWC,24-May-23,Honufa,24,,Narsingdi District,Narsingdi Sadar Upazila,Yes,Oral Pill,1,1,65,98,74,120/70,4,1,86
+NM100,Narshingdi MCWC,21-Aug-23,Sania,21,,Narsingdi District,Raipura Upazila,Yes,Oral Pill,1,1,54,98,72,120/80,4,1,93
+OG031,OGSB Hospital,31-Jan-23,Fatema,27,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,68,98,76,110/80,4,1,90
+OG032,OGSB Hospital,31-Jan-23,Jahanara,30,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,2,1,49,97,86,110/60,2,1,76
+OG042,OGSB Hospital,16-Feb-23,Shahida,23,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,45,97,82,100/60,1,1,73
+OG049,OGSB Hospital,28-Feb-23,Selina Akter,27,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,60,97,86,120/80,1,1,93
+OG071,OGSB Hospital,6-May-23,Sabina,26,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,64,98,72,100/70,1,1,80
+OG074,OGSB Hospital,9-May-23,Afroza Akter,21,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,53,98,72,110/70,1,1,83
+OG077,OGSB Hospital,14-May-23,Nasima,36,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,69,98,78,130/90,1,1,103
+OG079,OGSB Hospital,15-May-23,Mim,21,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,2,1,50,98,82,100/60,2,1,73
+OG082,OGSB Hospital,20-May-23,Sathi,34,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,2,1,97,98,78,130/90,2,1,103
+OG091,OGSB Hospital,11-Jul-23,Aklima,29,,Dhaka District,Mirpur Model Thana,Yes,Oral Pill,1,1,58,98,72,110/80,4,1,90
+MC056,MCHTI,5-Mar-23,Maria,23,,Dhaka District,Keraniganj Upazila,Yes,Oral Pill,1,1,60,98,76,120/80,4,1,93
+MC070,MCHTI,13-Feb-23,Rita,30,,Dhaka District,Kamrangirchar Thana,Yes,Condom,1,0,45,98,72,120/80,4,1,93
+LM062,Lakshmipur MCWC,25-Feb-23,Nipu Akter,25,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Implant,1,1,45,98,72,120/80,4,1,93
+LM054,Lakshmipur MCWC,30-May-23,Selina,45,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Copper IUD,1,0,60,98,72,120/70,4,1,86
+LM055,Lakshmipur MCWC,25-Mar-23,Shampa Sarker,21,,Lakshmipur District,Lakshmipur Sadar Upazila,Yes,Oral Pill,1,1,72,98,72,120/80,4,1,93
